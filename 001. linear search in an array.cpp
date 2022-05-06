@@ -6,11 +6,11 @@ Input:
 N = 5, K = 16
 Arr[] = {9, 7, 2, 16, 4}
 Output: 4
-Explanation: K = 16 is found in the
-given array at position 4.
+Explanation: 
+K = 16 is found in the given array at position 4.
   
 Code:
-class Solution{
+class Solution {
 public:
 	int search(int arr[], int n, int k) {
 	    // code here
