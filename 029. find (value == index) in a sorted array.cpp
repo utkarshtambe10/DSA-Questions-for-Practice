@@ -17,7 +17,6 @@ public:
 	    for(int i=0;i<n;i++) {
 	        if(arr[i] == i) {
 	            ans.push_back(arr[i]);
-	            break;
 	        }
 	    }
 	    return ans;
