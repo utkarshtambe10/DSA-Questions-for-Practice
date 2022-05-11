@@ -1,6 +1,10 @@
 702. Search in a Sorted Array of Unknown Size - LeetCode(Premium)
 Given an integer array sorted in ascending order, write a function to search target in nums. 
 If target exists, then return its index, otherwise return -1. However, the array size is unknown to you.
+Note:
+You may assume that all elements in the array are unique.
+The value of each element in the array will be in the range [-9999, 9999].
+The given array is always sorted.
   
 Input:
 array = [-1,0,3,5,9,12], target = 9
